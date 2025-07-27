@@ -1,0 +1,80 @@
+h1, h2, ul, p {
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    list-style-type: none;
+}
+
+body {
+    background-image: url(/htmlcss-s01e02/images/halloween-background.gif);
+    background-size: cover;
+    background-position: center;
+}
+
+.wrapper {
+    background-color: #ddd;
+    width: 800px;
+    margin: 0 auto;
+}
+
+.header {
+    background-image: url(/htmlcss-s01e02/images/halloween-header-bg.png);
+    color: white;
+    height: 400px;
+    text-align: center;
+}
+
+.header .profile {
+    margin-top: 50px;
+}
+
+.header h1 {
+    color: violet;
+    margin: 10px 0;
+}
+
+.header p {
+    background-color: black;
+    width: 600px;
+    margin: 0 auto;
+    padding: 10px;
+    color: #888;
+    border-radius: 5px;
+}
+
+.section {
+    background-color: white;
+    padding: 20px;
+    margin: 20px;
+    background-image: url(/htmlcss-s01e02/images/icon-information.png);
+    background-repeat: no-repeat;
+    background-position: right 30px center;
+}
+
+.section h2 {
+    color:  orangered;
+    margin-bottom: 10px;
+}
+
+.section li {
+    border-left: 5px solid #ddd;
+    padding: 6px 10px 4px;
+    background-image: url(/htmlcss-s01e02/images/);
+}
+
+.section li:hover {
+    color: orange;
+    border-color: orange;
+}
+
+.footer {
+    background-color: #111;
+    color: #999;
+    padding: 20px 0;
+    text-align: center;
+    color: violet;
+    letter-spacing: 5px;
+    text-indent: 5px;
+}
