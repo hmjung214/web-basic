@@ -1,0 +1,16 @@
+div {
+    width: 400px;
+    background-color: white;
+    padding: 50px;
+    margin: 50px auto;
+    border-radius: 5px;
+}
+
+h1 {
+    margin:40px auto;
+}
+
+ul {
+    width: 100px;
+    margin: 30px auto;
+}
