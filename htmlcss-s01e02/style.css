@@ -44,6 +44,10 @@ body {
     border-radius: 5px;
 }
 
+.section.skills {
+    background-image: url(/htmlcss-s01e02/images/icon-skills.png);
+}
+
 .section {
     background-color: white;
     padding: 20px;
